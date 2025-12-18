@@ -36,7 +36,8 @@ The workflow consists of three main steps:
 1. **Generate synthetic data** using `generate_data()`.  
    - Produces **MAP**, **PED**, **Forward-Backward**, and **Viterbi** files.  
    - Haplotypes of the same individual mostly share ancestry blocks but allow minor variation.  
-   - Forward-Backward probabilities for assigned ancestries are high (0.9–1.0).  
+   - Forward-Backward probabilities for assigned ancestries are high (0.9–1.0).
+   - **Please note that we do not recommend using these simulated data for any purpose other than those described here.**
 
 2. **Apply local ancestry masking** using `lamask()`.  
    - Can use either **Forward-Backward probabilities** (with a threshold) or **Viterbi states**.  
