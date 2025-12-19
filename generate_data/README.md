@@ -80,8 +80,8 @@ viterbi_df <- example_files$viterbi
 ## Notes
 
 * The function ensures that **Viterbi states match the maximum probability ancestry** in the Forward-Backward file.
-* Haplotypes of the same individual share most of their ancestry assignments, but with **minor variation** to simulate realistic recombination.
-* Forward-Backward probabilities for the assigned ancestry are mostly high (0.9–1.0) to allow testing of realistic masking thresholds.
+* Haplotypes of the same individual share most of their ancestry assignments, but with **minor variation** to simulate recombination.
+* Forward-Backward probabilities for the assigned ancestry are mostly high (0.9–1.0) to allow testing of more realistic masking thresholds.
 * PED alleles are randomly generated and do not necessarily correspond to ancestry-specific alleles.
 
 ---
