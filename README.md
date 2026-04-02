@@ -1,7 +1,7 @@
 
 # Local Ancestry Masking (lamask)
 
-Repository containing the in-house code used to perform local ancestry masking in the study "Indigenous American Genomes Harbor Unique Genetic Diversity and a Complex Evolutionary Past".
+Repository containing the in-house code used to perform local ancestry masking in the study "The evolutionary history and unique genetic diversity of Indigenous Americans".
 
 DOI: [https://doi.org/10.1038/s41586-026-10406-w](url)
 
