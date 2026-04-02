@@ -3,7 +3,7 @@
 
 Repository containing the in-house code used to perform local ancestry masking in the study "Indigenous American Genomes Harbor Unique Genetic Diversity and a Complex Evolutionary Past".
 
-DOI: To be updated
+DOI: [https://doi.org/10.1038/s41586-026-10406-w](url)
 
 Author: Marcos Araújo Castro e Silva
 
